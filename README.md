@@ -1,3 +1,5 @@
+**Archiving this repository as it's not maintained. Please either use https://github.com/tinymce/tinymceai-sales-demos or TinyMCE implementations in the docs.**
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
